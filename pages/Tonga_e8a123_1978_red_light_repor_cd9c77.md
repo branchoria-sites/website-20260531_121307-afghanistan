@@ -391,7 +391,7 @@ As a result, the case remains neither confirmed nor debunked. The witness accoun
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
 <p class="fr-book-desc">Provides historical perspective on evaluating sighting reports and witness accounts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ As a result, the case remains neither confirmed nor debunked. The witness accoun
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-        
+
 <p class="fr-book-desc">Helps explain how people interpret and remember extraordinary events over long periods.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ As a result, the case remains neither confirmed nor debunked. The witness accoun
 <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
 </h4>
 <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
 <p class="fr-book-desc">Useful for understanding memory revision, certainty and retrospective interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ As a result, the case remains neither confirmed nor debunked. The witness accoun
 <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
 </h4>
 <p class="fr-book-author">By Nigel Watson</p>
-        
+
 <p class="fr-book-desc">Directly matches the article&#x27;s focus on witness testimony, missing evidence and testing UFO claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

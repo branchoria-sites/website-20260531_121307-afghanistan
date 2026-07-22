@@ -386,7 +386,7 @@ The case also illustrates an important distinction in UFO research between “un
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Explains how investigators separate unexplained sightings from conventional aerospace events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The case also illustrates an important distinction in UFO research between “un
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Focuses on classification and evaluation of reported aerial phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The case also illustrates an important distinction in UFO research between “un
 <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
 </h4>
 <p class="fr-book-author">By Robert Sheaffer</p>
-        
+
 <p class="fr-book-desc">Directly addresses mistaken interpretations of astronomical and atmospheric events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ The case also illustrates an important distinction in UFO research between “un
 <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
 </h4>
 <p class="fr-book-author">By Donald William Robert McKinley</p>
-        
+
 <p class="fr-book-desc">Useful for understanding fireballs and meteor-like sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

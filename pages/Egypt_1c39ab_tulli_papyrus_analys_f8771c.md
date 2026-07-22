@@ -459,7 +459,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
+
 <p class="fr-book-desc">Directly relates to ancient and premodern sky-event claims like the Tulli Papyrus.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
 <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Terrible Mistake">A Terrible Mistake</a>
 </h4>
 <p class="fr-book-author">By Jason Colavito</p>
-        
+
 <p class="fr-book-desc">Critically examines questionable ancient-alien evidence and source chains.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Helped create the cultural environment in which the Tulli Papyrus became famous.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -510,7 +510,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
 <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clancy 2 boxed set">Clancy 2 boxed set</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Links Egyptian history with extraterrestrial interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

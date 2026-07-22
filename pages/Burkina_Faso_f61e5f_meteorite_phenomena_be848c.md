@@ -321,7 +321,7 @@ Although Burkina Faso has experienced several noteworthy meteorite falls — mos
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-        
+
 <p class="fr-book-desc">Covers witnessed falls and meteorite identification.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -338,7 +338,7 @@ Although Burkina Faso has experienced several noteworthy meteorite falls — mos
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Useful for understanding how astronomical events become UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ Although Burkina Faso has experienced several noteworthy meteorite falls — mos
 <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Provides broad astronomical context behind unusual sky observations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Although Burkina Faso has experienced several noteworthy meteorite falls — mos
 <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Very Short Introduction">Meteorites: A Very Short Introduction</a>
 </h4>
 <p class="fr-book-author">By Tim Gregory</p>
-        
+
 <p class="fr-book-desc">Directly explains meteorite falls and fireball events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -326,7 +326,7 @@ Overall, Malawi’s governance and archival systems do not currently include a s
 <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
 </h4>
 <p class="fr-book-author">By Richard M. Dolan</p>
-        
+
 <p class="fr-book-desc">Focuses on official documentation and national-security treatment of sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -343,7 +343,7 @@ Overall, Malawi’s governance and archival systems do not currently include a s
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
 </h4>
 <p class="fr-book-author">By Nick Pope</p>
-        
+
 <p class="fr-book-desc">Explains how governments process and assess UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ Overall, Malawi’s governance and archival systems do not currently include a s
 <a href="https://www.amazon.com/s?k=Inside+the+Black+Vault+Greenewald%2C+John%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Black Vault">Inside the Black Vault</a>
 </h4>
 <p class="fr-book-author">By Greenewald, John, Jr.</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Unidentified flying objects, sightings and encounters, Government information, military intelligence, Mys...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Inside+the+Black+Vault+Greenewald%2C+John%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Overall, Malawi’s governance and archival systems do not currently include a s
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-        
+
 <p class="fr-book-desc">Directly addresses official records, archives, and state handling of UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

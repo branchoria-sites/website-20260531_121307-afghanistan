@@ -348,7 +348,7 @@ Within the wider history of reported UFO incidents in Kenya, the Makueni ring re
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides context for how unusual aerial events are investigated before conclusions are reached.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Within the wider history of reported UFO incidents in Kenya, the Makueni ring re
 <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Gives readers a better understanding of launch systems and space technology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Within the wider history of reported UFO incidents in Kenya, the Makueni ring re
 <a href="https://www.amazon.com/s?k=A+City+on+Mars+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
 </h4>
 <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
-        
+
 <p class="fr-book-desc">First published 2023. Subjects: Science and state, Humor, form, comic strips &amp; cartoons, Space sciences, New York Times bestseller, Space...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+City+on+Mars+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Within the wider history of reported UFO incidents in Kenya, the Makueni ring re
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
 </h4>
 <p class="fr-book-author">By Mary Roach</p>
-        
+
 <p class="fr-book-desc">Helps readers understand the realities and risks associated with spaceflight.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

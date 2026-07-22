@@ -335,7 +335,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
 <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-        
+
 <p class="fr-book-desc">Provides context for investigated sightings and recurring explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-        
+
 <p class="fr-book-desc">Examines famous reports, investigations, and evidential limits.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
 </h4>
 <p class="fr-book-author">By Nick Pope</p>
-        
+
 <p class="fr-book-desc">Discusses how reported UFO events are assessed and categorized.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
 <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
 </h4>
 <p class="fr-book-author">By Donald Keyhoe</p>
-        
+
 <p class="fr-book-desc">Historic treatment of sighting reports and witness testimony.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

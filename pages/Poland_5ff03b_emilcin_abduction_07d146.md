@@ -378,7 +378,7 @@ As a result, Emilcin occupies a middle category that is often more historically 
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Explains how investigators classify and evaluate witness reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ As a result, Emilcin occupies a middle category that is often more historically 
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Connects UFO encounters to folklore and cultural memory, matching how Emilcin became a national legend.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ As a result, Emilcin occupies a middle category that is often more historically 
 <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
 </h4>
 <p class="fr-book-author">By Whitley Strieber</p>
-        
+
 <p class="fr-book-desc">Provides context for why personal abduction narratives become culturally influential.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ As a result, Emilcin occupies a middle category that is often more historically 
 <a href="https://www.amazon.com/s?k=Dimensions%3A+A+Casebook+of+Alien+Contact+Jacques+Vall%C3%A9e&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions: A Casebook of Alien Contact">Dimensions: A Casebook of Alien Contact</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallée</p>
-        
+
 <p class="fr-book-desc">Focuses on close encounters and abduction-style reports similar to Emilcin.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dimensions%3A+A+Casebook+of+Alien+Contact+Jacques+Vall%C3%A9e&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

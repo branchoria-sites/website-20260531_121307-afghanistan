@@ -427,7 +427,7 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Useful contrast between explainable and unexplained sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
 </h4>
 <p class="fr-book-author">By Greg Eghigian</p>
-        
+
 <p class="fr-book-desc">Shows how aerospace events often generate UFO stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
 <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
 </h4>
 <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
+
 <p class="fr-book-desc">Builds familiarity with commonly misidentified sky phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -478,7 +478,7 @@ For Samoa, this means that some of the most spectacular modern "UFO" sights may 
 <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
 </h4>
 <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
-        
+
 <p class="fr-book-desc">Explains how satellites move and appear from Earth.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

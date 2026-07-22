@@ -321,7 +321,7 @@ In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture â
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
 </h4>
 <p class="fr-book-author">By Terence Dickinson</p>
-        
+
 <p class="fr-book-desc">Helps explain how lights, planets, satellites, and meteors can be misread over Baku or the Caspian.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -338,7 +338,7 @@ In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture â
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Gives a stronger global UFO investigation context than weak Baku-only source material.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture â
 <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
+
 <p class="fr-book-desc">Useful for interpreting amateur videos and urban misidentification risks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture â
 <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
 </h4>
 <p class="fr-book-author">By Philip J. Klass</p>
-        
+
 <p class="fr-book-desc">Addresses ordinary explanations behind dramatic UFO-labelled sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

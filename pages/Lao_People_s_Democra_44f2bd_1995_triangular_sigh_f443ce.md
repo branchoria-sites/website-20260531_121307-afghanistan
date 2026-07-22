@@ -415,7 +415,7 @@ As a result, the case occupies a middle ground common in UFO research. It is nei
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Useful for assessing witness testimony and sighting classifications.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ As a result, the case occupies a middle ground common in UFO research. It is nei
 <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
 </h4>
 <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
-        
+
 <p class="fr-book-desc">Demonstrates challenges of relying heavily on witness testimony and retrospective evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ As a result, the case occupies a middle ground common in UFO research. It is nei
 <a href="https://www.amazon.com/s?k=Triangular+UFOs+Mr.+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Triangular UFOs">Triangular UFOs</a>
 </h4>
 <p class="fr-book-author">By Mr. David Marler</p>
-        
+
 <p class="fr-book-desc">First published 2013.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Triangular+UFOs+Mr.+David+Marler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -466,7 +466,7 @@ As a result, the case occupies a middle ground common in UFO research. It is nei
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Explores how unusual reports persist despite limited evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

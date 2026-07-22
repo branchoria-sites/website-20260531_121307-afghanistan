@@ -369,7 +369,7 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
 <a href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Debris and Other Threats from Outer Space">Space Debris and Other Threats from Outer Space</a>
 </h4>
 <p class="fr-book-author">By Joseph N. Pelton</p>
-        
+
 <p class="fr-book-desc">Directly addresses re-entry debris and aerospace hazards.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides context for assessing physical-evidence UFO claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Useful for comparing evidence-based cases with speculative interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Yet the lesson of the case is not that Namibia recovered alien hardware. The str
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
 </h4>
 <p class="fr-book-author">By Mary Roach</p>
-        
+
 <p class="fr-book-desc">Introduces readers to practical realities of space technology and hardware.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

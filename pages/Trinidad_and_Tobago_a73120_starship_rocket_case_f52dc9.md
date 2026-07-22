@@ -374,7 +374,7 @@ For researchers examining Trinidad and Tobago's modern UFO record, the Starship 
 <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
 </h4>
 <p class="fr-book-author">By Allan Hendry</p>
-        
+
 <p class="fr-book-desc">Covers misidentifications arising from unusual aerospace events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For researchers examining Trinidad and Tobago's modern UFO record, the Starship 
 <a href="https://www.amazon.com/s?k=Liftoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liftoff">Liftoff</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Directly relevant to understanding SpaceX launches and public reactions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Liftoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For researchers examining Trinidad and Tobago's modern UFO record, the Starship 
 <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
 </h4>
 <p class="fr-book-author">By John D. Clark</p>
-        
+
 <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ For researchers examining Trinidad and Tobago's modern UFO record, the Starship 
 <a href="https://www.amazon.com/s?k=Reentry+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reentry">Reentry</a>
 </h4>
 <p class="fr-book-author">By Eric Berger</p>
-        
+
 <p class="fr-book-desc">First published 2024.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reentry+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

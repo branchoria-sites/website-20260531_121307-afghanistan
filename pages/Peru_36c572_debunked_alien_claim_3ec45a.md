@@ -424,7 +424,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Addresses extraordinary claims and evidence assessment.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
 </h4>
 <p class="fr-book-author">By Kenneth L. Feder</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Forgery of antiquities, Archaeology, Arqueología, Archäologie, Irrtum.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 <a href="https://www.amazon.com/s?k=Between+the+lines+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Between the lines">Between the lines</a>
 </h4>
 <p class="fr-book-author">By Anthony F. Aveni</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Antiquities, Peru, antiquities, Excavations (Archaeology).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Between+the+lines+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Central to the Nazca-as-alien-evidence narrative being examined and challenged.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

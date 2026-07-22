@@ -397,7 +397,7 @@ For researchers, the most valuable outcome may not be the unidentified cases the
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-        
+
 <p class="fr-book-desc">Explains how sightings are classified, investigated, and archived.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For researchers, the most valuable outcome may not be the unidentified cases the
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
 <p class="fr-book-desc">Focuses on separating explainable cases from unresolved reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For researchers, the most valuable outcome may not be the unidentified cases the
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Matches the article&#x27;s emphasis on evidence standards and report evaluation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ For researchers, the most valuable outcome may not be the unidentified cases the
 <a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Final Report of the Scientific Study of Unidentified Flying Objects">Final Report of the Scientific Study of Unidentified Flying O...</a>
 </h4>
 <p class="fr-book-author">By University of Colorado (Boulder campus), Edward Uhler Condon</p>
-        
+
 <p class="fr-book-desc">Directly addresses investigative methodology and evidence quality.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

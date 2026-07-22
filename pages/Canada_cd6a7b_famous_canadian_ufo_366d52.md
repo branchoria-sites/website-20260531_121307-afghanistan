@@ -444,7 +444,7 @@ In Canada’s UFO history, uncertainty itself became the lasting phenomenon.
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
 <p class="fr-book-desc">Provides historical comparison for enduring unexplained cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ In Canada’s UFO history, uncertainty itself became the lasting phenomenon.
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Explores notable international cases and evidence evaluation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -478,7 +478,7 @@ In Canada’s UFO history, uncertainty itself became the lasting phenomenon.
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-        
+
 <p class="fr-book-desc">Shows how famous UFO cases persist through records and debate.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -495,7 +495,7 @@ In Canada’s UFO history, uncertainty itself became the lasting phenomenon.
 <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Nigel+Blundell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest UFO Mysteries">The World&#x27;s Greatest UFO Mysteries</a>
 </h4>
 <p class="fr-book-author">By Nigel Blundell, Roger Boar</p>
-        
+
 <p class="fr-book-desc">Places Canadian incidents within a wider catalogue of famous UFO cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+by+Nigel+Blundell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
