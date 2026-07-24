@@ -321,7 +321,7 @@ Without such evidence, the combination of official statements and expert analysi
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-
+        
 <p class="fr-book-desc">Provides broader context for public reactions to unexplained sky sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -338,7 +338,7 @@ Without such evidence, the combination of official statements and expert analysi
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Addresses modern aerial sightings and the challenge of interpreting them.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ Without such evidence, the combination of official statements and expert analysi
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Focuses on cases supported by stronger evidence than social-media sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Without such evidence, the combination of official statements and expert analysi
 <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
 </h4>
 <p class="fr-book-author">By Peter Jenniskens</p>
-
+        
 <p class="fr-book-desc">Helps explain bright sky events that are often mistaken for UFOs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

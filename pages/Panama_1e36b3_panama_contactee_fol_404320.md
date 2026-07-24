@@ -392,7 +392,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Directly connects UFO narratives with folklore, myth, and belief systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Directly connects UFO narratives with folklore, myth, and belief systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
 <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
 </h4>
 <p class="fr-book-author">By Whitley Strieber</p>
-
+        
 <p class="fr-book-desc">Illustrates how personal contact narratives shape UFO culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
 <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Examines social dynamics behind UFO belief and contactee communities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

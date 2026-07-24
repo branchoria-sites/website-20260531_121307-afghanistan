@@ -369,7 +369,7 @@ The result is a cautious historical assessment. Wheelus Air Base provides some o
 <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Wheelus cases are closely tied to Project Blue Book reporting channels.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The result is a cautious historical assessment. Wheelus Air Base provides some o
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides analytical framework for evaluating military sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The result is a cautious historical assessment. Wheelus Air Base provides some o
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Strong match for radar tracking incidents and military reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The result is a cautious historical assessment. Wheelus Air Base provides some o
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
 </h4>
 <p class="fr-book-author">By Brad Steiger</p>
-
+        
 <p class="fr-book-desc">Directly relevant to archived military UFO cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

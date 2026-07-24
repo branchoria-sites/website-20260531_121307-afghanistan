@@ -452,89 +452,89 @@ This is a common problem in UFO research generally, but it becomes especially se
 That is why the strongest conclusions about North Korean UFO records are usually cautious ones. The available evidence supports the view that the country’s political controls, military secrecy and restricted information environment sharply reduce the visibility of unexplained aerial events. What remains is a fragmented archive shaped more by state repression and border militarisation than by open civilian observation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are UFO Records So Sparse in North Korea?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are UFO Records So Sparse in North Korea?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-
-        <p class="fr-book-desc">The ultimate guide to Project Blue Book by one of the lead astronomers for the US Air Force program to investigate UFO sightings—and feat...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
+        
+<p class="fr-book-desc">The ultimate guide to Project Blue Book by one of the lead astronomers for the US Air Force program to investigate UFO sightings—and feat...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
-
-        <p class="fr-book-desc">Governments around the world have had to deal with the UFO phenomenon for a good part of a century. How and why they did so is the subjec...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+<p class="fr-book-desc">Governments around the world have had to deal with the UFO phenomenon for a good part of a century. How and why they did so is the subjec...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without you, there is no us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7320315-M.jpg" alt="Cover for Without you, there is no us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
-        </h4>
-        <p class="fr-book-author">By Suki Kim</p>
-
-        <p class="fr-book-desc">First published 2014. Subjects: Politics and government, Elite (Social sciences), Social conditions, Education and state, Biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Without you, there is no us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7320315-M.jpg" alt="Cover for Without you, there is no us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Without you, there is no us">Without you, there is no us</a>
+</h4>
+<p class="fr-book-author">By Suki Kim</p>
+        
+<p class="fr-book-desc">First published 2014. Subjects: Politics and government, Elite (Social sciences), Social conditions, Education and state, Biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us+Suki+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick%2C+Demick+Barbara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick%2C+Demick+Barbara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
-
-        <p class="fr-book-desc">First published 2009. Subjects: Koreans, Social conditions, Case studies, Economic conditions, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick%2C+Demick+Barbara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick%2C+Demick+Barbara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick%2C+Demick+Barbara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
+</h4>
+<p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
+        
+<p class="fr-book-desc">First published 2009. Subjects: Koreans, Social conditions, Case studies, Economic conditions, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick%2C+Demick+Barbara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Without you, there is no us</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Without+you%2C+there+is+no+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Without you, there is no us</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -371,7 +371,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides context for how unusual sky events are interpreted before conventional explanations emerge.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
 <a href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The astronomy book">The astronomy book</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Helps readers understand rocket stages, launches, and atmospheric phenomena mistaken for UFOs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
 <a href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spaceflight">Spaceflight</a>
 </h4>
 <p class="fr-book-author">By Giles Sparrow, Buzz Aldrin</p>
-
+        
 <p class="fr-book-desc">Helps readers understand rocket stages, launches, and atmospheric phenomena mistaken for UFOs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
 <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Introduces rocket operations and public fascination with unusual objects in the sky.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

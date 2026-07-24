@@ -1318,7 +1318,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
 <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-
+        
 <p class="fr-book-desc">Useful background on how classified activity feeds UFO speculation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1335,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Excellent overview for readers entering the Bahamas UFO topic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Explores how culture and geography shape unusual sighting reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

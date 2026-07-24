@@ -389,7 +389,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Focuses on military and aviation UFO cases where unidentified does not automatically mean extraordinary.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Examines modern military sightings and debates about evidence quality.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
 <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
 </h4>
 <p class="fr-book-author">By Luis Elizondo</p>
-
+        
 <p class="fr-book-desc">Provides context for how modern U.S. military UAP reporting is interpreted.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Explains classification systems and cautious evaluation of sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

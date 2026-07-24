@@ -374,7 +374,7 @@ In practical terms, Samoa's 2024–2025 Starlink transition may become one of th
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-
+        
 <p class="fr-book-desc">Discusses modern UAP reporting in an era of increasing sky traffic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ In practical terms, Samoa's 2024–2025 Starlink transition may become one of th
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
 </h4>
 <p class="fr-book-author">By Greg Eghigian</p>
-
+        
 <p class="fr-book-desc">Provides context for changing patterns of sighting reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ In practical terms, Samoa's 2024–2025 Starlink transition may become one of th
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Examines misidentifications and observational challenges.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ In practical terms, Samoa's 2024–2025 Starlink transition may become one of th
 <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
 </h4>
 <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-
+        
 <p class="fr-book-desc">Improves recognition of objects visible in the night sky.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

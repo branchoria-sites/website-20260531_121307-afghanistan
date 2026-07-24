@@ -354,7 +354,7 @@ The case therefore functions as a benchmark rather than a solution. It shows why
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Perfect fit for a military-pilot sighting case.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The case therefore functions as a benchmark rather than a solution. It shows why
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Examines witness credibility and aerial-observation reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The case therefore functions as a benchmark rather than a solution. It shows why
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Provides context for military handling of unexplained sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The case therefore functions as a benchmark rather than a solution. It shows why
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Explores contemporary military witness testimony.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

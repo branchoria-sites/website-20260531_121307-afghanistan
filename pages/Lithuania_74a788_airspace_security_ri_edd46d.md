@@ -370,7 +370,7 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Emphasizes aviation safety, military witnesses, and airspace concerns.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-
+        
 <p class="fr-book-desc">Connects unidentified aircraft observations with real aerospace and defense realities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
 <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
 </h4>
 <p class="fr-book-author">By Christian Brose</p>
-
+        
 <p class="fr-book-desc">Explains modern air-defense and military surveillance challenges.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ In practical terms, the country's contemporary UFO story is becoming a story abo
 <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
 </h4>
 <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
-
+        
 <p class="fr-book-desc">Relevant to modern unidentified-object and drone-security discussions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

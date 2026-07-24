@@ -376,7 +376,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Matches the article&#x27;s focus on perception, distance, and witness interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides context for evaluating claims that gain public attention.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Explores recurring themes in unusual sighting reports and interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By D.W. Pasulka</p>
-
+        
 <p class="fr-book-desc">Especially relevant to the role of media amplification and online narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

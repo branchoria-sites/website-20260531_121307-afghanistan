@@ -327,7 +327,7 @@ Austria’s UFO case timeline — from Cold War era Project Blue Book archives t
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides a framework for sorting stronger reports from folklore-like cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ Austria’s UFO case timeline — from Cold War era Project Blue Book archives t
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Supports the page’s emphasis on stronger documented cases and official testimony.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Austria’s UFO case timeline — from Cold War era Project Blue Book archives t
 <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
 </h4>
 <p class="fr-book-author">By Philip J. Klass</p>
-
+        
 <p class="fr-book-desc">Matches the page’s evidence-quality approach to separating stronger cases from weak claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Austria’s UFO case timeline — from Cold War era Project Blue Book archives t
 <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-
+        
 <p class="fr-book-desc">Helps contextualise Austrian reports within wider international UFO chronology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

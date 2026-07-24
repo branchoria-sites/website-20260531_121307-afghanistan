@@ -302,7 +302,7 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Encourages evidence-based discussion of sightings and reporting quality.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -319,7 +319,7 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Strong fit for a page focused on analysis, evidence and skeptical evaluation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -336,7 +336,7 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Provides cultural context for how sightings become stories and folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ In conclusion, the evidence for anomalous craft in urban Cuban sightings remains
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Excellent match for skeptical examination of extraordinary claims and visual evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

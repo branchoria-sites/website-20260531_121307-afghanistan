@@ -443,7 +443,7 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
 <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Explains how UFO stories spread through media and culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
 <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
-
+        
 <p class="fr-book-desc">Examines common UFO claims and their explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -477,7 +477,7 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Directly addresses skepticism, evidence, and extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -494,7 +494,7 @@ Hungary’s UFO stories therefore reveal less about confirmed extraterrestrial v
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
 </h4>
 <p class="fr-book-author">By Colin Dickey</p>
-
+        
 <p class="fr-book-desc">Looks at why societies sustain mystery narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

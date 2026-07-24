@@ -383,7 +383,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
 </h4>
 <p class="fr-book-author">By Nick Pope</p>
-
+        
 <p class="fr-book-desc">Explains how the UFO desk operated and evaluated reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Provides continuity from historical files to present-day debates.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Shows how governments and officials have approached UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Best single-volume match for the MoD UFO desk topic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

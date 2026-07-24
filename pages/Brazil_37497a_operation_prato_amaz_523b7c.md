@@ -503,7 +503,7 @@ The operation therefore occupies an unusual middle ground in UFO history — nei
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides classification and investigation concepts applicable to witness-heavy cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -520,7 +520,7 @@ The operation therefore occupies an unusual middle ground in UFO history — nei
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Connects official witnesses and government handling of UAP reports to the Brazilian military context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -537,7 +537,7 @@ The operation therefore occupies an unusual middle ground in UFO history — nei
 <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
 </h4>
 <p class="fr-book-author">By Michael Swords, Robert Powell</p>
-
+        
 <p class="fr-book-desc">Operation Prato is fundamentally about state investigation, field reports, photographs, and declassified material.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -554,7 +554,7 @@ The operation therefore occupies an unusual middle ground in UFO history — nei
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Useful for interpreting unusual humanoid, light, and community-fear reports without relying only on literalist readings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

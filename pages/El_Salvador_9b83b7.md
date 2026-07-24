@@ -1312,7 +1312,7 @@ The most honest conclusion is that El Salvador has confirmed UFO reports in the 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Fits a country-level overview of UFO reports and evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1329,7 +1329,7 @@ The most honest conclusion is that El Salvador has confirmed UFO reports in the 
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Addresses how contemporary UFO reports are evaluated.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1346,7 +1346,7 @@ The most honest conclusion is that El Salvador has confirmed UFO reports in the 
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides categories and investigative methods relevant to Salvadoran sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ The most honest conclusion is that El Salvador has confirmed UFO reports in the 
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-
+        
 <p class="fr-book-desc">Explains how communities and narratives form around sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

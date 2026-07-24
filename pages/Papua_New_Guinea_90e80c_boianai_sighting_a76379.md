@@ -370,7 +370,7 @@ This is why the Boianai case occupies a distinctive place in Papua New Guinea's 
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides frameworks for assessing witness testimony and unexplained sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ This is why the Boianai case occupies a distinctive place in Papua New Guinea's 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Examines credible witness cases and evidential limits.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ This is why the Boianai case occupies a distinctive place in Papua New Guinea's 
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Often discussed alongside major witness-based UFO reports such as Boianai.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ This is why the Boianai case occupies a distinctive place in Papua New Guinea's 
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
 </h4>
 <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
-
+        
 <p class="fr-book-desc">Offers comparison with another heavily documented witness event.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

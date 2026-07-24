@@ -1263,7 +1263,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Explains how sightings are categorized and assessed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1280,7 +1280,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Covers credible cases, skepticism, and official responses relevant to Bulgaria&#x27;s stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1297,7 +1297,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Links folklore, culture, and unexplained aerial reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1314,7 +1314,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Provides skeptical tools for evaluating extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1298,7 +1298,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-
+        
 <p class="fr-book-desc">Broad introduction matching a country-level overview of UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1315,7 +1315,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
 <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
 </h4>
 <p class="fr-book-author">By Luis Elizondo</p>
-
+        
 <p class="fr-book-desc">Provides contemporary context for public UFO discussions and investigations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Historical perspective on UFO reporting and investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
 <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
 </h4>
 <p class="fr-book-author">By Allan Hendry</p>
-
+        
 <p class="fr-book-desc">Explains how many reports end up unresolved because of limited data.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

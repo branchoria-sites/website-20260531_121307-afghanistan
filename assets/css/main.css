@@ -2105,6 +2105,17 @@ body.right-sidebar-collapsed .sidebar {
   line-height: 1.2;
 }
 
+a.article-hero-stat {
+  text-decoration: none;
+}
+
+a.article-hero-stat:hover,
+a.article-hero-stat:focus-visible {
+  border-color: color-mix(in srgb, var(--brand) 58%, var(--card-border) 42%);
+  background: color-mix(in srgb, var(--surface) 72%, var(--brand) 28%);
+  color: var(--heading);
+}
+
 .article-hero-highlights {
   display: grid;
   gap: 0.44rem;
@@ -3428,6 +3439,23 @@ body.left-sidebar-collapsed .page-tools {
 .page-tools-actions {
   display: grid;
   gap: 0.45rem;
+}
+
+.page-research-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.38rem;
+}
+
+.page-research-actions .page-action-button:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
+.page-research-actions .page-action-button {
+  min-width: 0;
+  padding-inline: 0.54rem;
+  border-radius: 12px;
+  font-size: 0.76rem;
 }
 
 .page-toc-actions {
@@ -13605,6 +13633,74 @@ body.page-article .article-body > .content-enhancement--step-flow > ol > li::bef
   color: color-mix(in srgb, var(--muted) 84%, var(--heading) 16%);
   font-size: 0.82rem;
   line-height: 1.45;
+}
+
+.archive-evidence-panel {
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--card-border) 68%, var(--brand) 32%);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--surface) 94%, var(--brand) 6%);
+  box-shadow: 0 14px 34px rgba(15, 23, 42, 0.09);
+}
+
+.archive-evidence-kicker {
+  padding: 0.62rem 0.82rem;
+  color: color-mix(in srgb, var(--brand-dark) 76%, var(--heading) 24%);
+  background: color-mix(in srgb, var(--surface-alt) 78%, var(--brand) 22%);
+  border-bottom: 1px solid color-mix(in srgb, var(--card-border) 72%, var(--brand) 28%);
+  font-size: 0.72rem;
+  font-weight: 760;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.archive-evidence-panel > img,
+.archive-evidence-image-link,
+.archive-evidence-image-link > img {
+  display: block;
+  width: 100%;
+}
+
+.archive-evidence-panel > img,
+.archive-evidence-image-link > img {
+  max-height: min(68vh, 720px);
+  object-fit: contain;
+  background: color-mix(in srgb, var(--surface-alt) 92%, #000 8%);
+}
+
+.archive-evidence-panel figcaption {
+  display: grid;
+  gap: 0.42rem;
+  margin-top: 0;
+  padding: 0.78rem 0.9rem 0.88rem;
+}
+
+.archive-evidence-panel figcaption strong {
+  color: var(--heading);
+  font-size: 1rem;
+}
+
+.archive-evidence-meta,
+.archive-evidence-explanation,
+.archive-evidence-rights {
+  display: block;
+}
+
+.archive-evidence-meta,
+.archive-evidence-rights {
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.archive-evidence-explanation {
+  color: color-mix(in srgb, var(--body-text) 90%, var(--muted) 10%);
+  font-size: 0.9rem;
+  line-height: 1.58;
+}
+
+.archive-evidence-rights a {
+  font-weight: 650;
 }
 
 .fr-ebay-query-context a {

@@ -1299,7 +1299,7 @@ The best conclusion is therefore cautious but not dismissive. Morocco has real U
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides framework for evaluating Morocco&#x27;s reported cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1316,7 +1316,7 @@ The best conclusion is therefore cautious but not dismissive. Morocco has real U
 <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
 </h4>
 <p class="fr-book-author">By Richard M. Dolan</p>
-
+        
 <p class="fr-book-desc">Useful for understanding government involvement and official reporting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1333,7 +1333,7 @@ The best conclusion is therefore cautious but not dismissive. Morocco has real U
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Strong fit for a national UFO overview page focused on documented reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The best conclusion is therefore cautious but not dismissive. Morocco has real U
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Relevant to how unexplained reports enter folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -362,7 +362,7 @@ That does not make the stories worthless. Instead, it changes their significance
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-
+        
 <p class="fr-book-desc">Explores historical anomalous sightings and cultural interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ That does not make the stories worthless. Instead, it changes their significance
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
 </h4>
 <p class="fr-book-author">By Nick Pope</p>
-
+        
 <p class="fr-book-desc">Provides broader UFO context around witness reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ That does not make the stories worthless. Instead, it changes their significance
 <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-
+        
 <p class="fr-book-desc">Contains many historical humanoid and schoolyard-style reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ That does not make the stories worthless. Instead, it changes their significance
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Strong fit for child-witness stories, folklore, and humanoid encounter traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

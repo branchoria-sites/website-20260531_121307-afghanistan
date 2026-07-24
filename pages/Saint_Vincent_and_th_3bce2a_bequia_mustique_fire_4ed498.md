@@ -364,7 +364,7 @@ More than a decade later, the central facts have not changed: a fiery object cro
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-
+        
 <p class="fr-book-desc">Focuses on investigations, official responses and unexplained aerial incidents.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ More than a decade later, the central facts have not changed: a fiery object cro
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Examines how authorities investigated unexplained aerial reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ More than a decade later, the central facts have not changed: a fiery object cro
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Explores witness reports and classification of aerial phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ More than a decade later, the central facts have not changed: a fiery object cro
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
 </h4>
 <p class="fr-book-author">By Greg Eghigian</p>
-
+        
 <p class="fr-book-desc">Places local sightings within broader global UFO reporting patterns.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

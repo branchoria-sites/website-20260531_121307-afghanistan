@@ -421,7 +421,7 @@ In the broader [Brunei Darussalam]({{ 'brunei-darussalam/' | relative_url }}) re
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Explores witness reports, urban observations, and recurring sighting categories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ In the broader [Brunei Darussalam]({{ 'brunei-darussalam/' | relative_url }}) re
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Shows how populated areas often generate the most visible and discussed reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ In the broader [Brunei Darussalam]({{ 'brunei-darussalam/' | relative_url }}) re
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Examines how cultural settings influence sightings and interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ In the broader [Brunei Darussalam]({{ 'brunei-darussalam/' | relative_url }}) re
 <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
 </h4>
 <p class="fr-book-author">By Mark O&#x27;Connell</p>
-
+        
 <p class="fr-book-desc">Provides context for how reports become public stories and attract attention.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

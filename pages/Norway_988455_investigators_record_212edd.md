@@ -465,7 +465,7 @@ For readers tracing Norway's UFO history, the central lesson is that the country
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
 </h4>
 <p class="fr-book-author">By Nick Pope</p>
-
+        
 <p class="fr-book-desc">Provides insight into official and civilian UFO investigations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -482,7 +482,7 @@ For readers tracing Norway's UFO history, the central lesson is that the country
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Directly relevant to investigative methods and records.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -499,7 +499,7 @@ For readers tracing Norway's UFO history, the central lesson is that the country
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Examines who collected records and how investigations were conducted.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -516,7 +516,7 @@ For readers tracing Norway's UFO history, the central lesson is that the country
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Highlights documented cases and investigator perspectives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

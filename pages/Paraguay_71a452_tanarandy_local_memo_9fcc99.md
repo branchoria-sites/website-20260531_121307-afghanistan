@@ -314,7 +314,7 @@ This distinction matters for understanding Paraguay’s wider UFO record. Many o
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Directly relevant to how sightings become folklore and cultural memory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -331,7 +331,7 @@ This distinction matters for understanding Paraguay’s wider UFO record. Many o
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-
+        
 <p class="fr-book-desc">Explores how extraordinary stories become meaningful social narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ This distinction matters for understanding Paraguay’s wider UFO record. Many o
 <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth and Mystery of UFOs">The Myth and Mystery of UFOs</a>
 </h4>
 <p class="fr-book-author">By Thomas E. Bullard</p>
-
+        
 <p class="fr-book-desc">Addresses the cultural evolution of UFO stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ This distinction matters for understanding Paraguay’s wider UFO record. Many o
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Helps readers think critically about memory, stories, and evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

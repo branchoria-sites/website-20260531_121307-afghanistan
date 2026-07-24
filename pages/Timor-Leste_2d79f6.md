@@ -1297,7 +1297,7 @@ For now, Timor-Leste’s UFO record is best described as sparse, locally intrigu
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Useful for understanding how sparse reports are analyzed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1314,7 +1314,7 @@ For now, Timor-Leste’s UFO record is best described as sparse, locally intrigu
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Addresses cultural interpretation of unusual sightings across different societies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1331,7 +1331,7 @@ For now, Timor-Leste’s UFO record is best described as sparse, locally intrigu
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides a solid grounding in credible UFO case evaluation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ For now, Timor-Leste’s UFO record is best described as sparse, locally intrigu
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-
+        
 <p class="fr-book-desc">Helpful for understanding anecdotal reports and perception.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

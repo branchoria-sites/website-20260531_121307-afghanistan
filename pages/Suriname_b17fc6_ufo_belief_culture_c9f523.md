@@ -331,7 +331,7 @@ Her work suggests that UFO belief can function like other imported cultural syst
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides broader UFO context alongside cultural interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ Her work suggests that UFO belief can function like other imported cultural syst
 <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
 </h4>
 <p class="fr-book-author">By D.W. Pasulka</p>
-
+        
 <p class="fr-book-desc">Perfect match for cultural transmission and UFO mythology themes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Her work suggests that UFO belief can function like other imported cultural syst
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-
+        
 <p class="fr-book-desc">Perfect match for cultural transmission and UFO mythology themes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Her work suggests that UFO belief can function like other imported cultural syst
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Explores folklore, mythology, and cultural interpretations of UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

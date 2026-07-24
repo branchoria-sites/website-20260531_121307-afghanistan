@@ -329,7 +329,7 @@ Jamaica’s aviation safety reporting infrastructure is robust within its mandat
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-
+        
 <p class="fr-book-desc">Explains how governments record, assess, and manage UFO/UAP reports rather than focusing only on sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ Jamaica’s aviation safety reporting infrastructure is robust within its mandat
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Discusses international reporting systems, military records, and investigation gaps.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Jamaica’s aviation safety reporting infrastructure is robust within its mandat
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Focuses on official reporting, case evaluation, and aviation-related UFO investigations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Jamaica’s aviation safety reporting infrastructure is robust within its mandat
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Examines how official UFO files are created, stored, and interpreted.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

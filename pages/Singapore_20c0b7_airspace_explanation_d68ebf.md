@@ -401,7 +401,7 @@ The result is not that every sighting has an immediate answer. Rather, Singapore
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Includes pilot observations and aviation-related sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The result is not that every sighting has an immediate answer. Rather, Singapore
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Explains observational errors caused by aircraft and viewing conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The result is not that every sighting has an immediate answer. Rather, Singapore
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-
+        
 <p class="fr-book-desc">Shows how advanced aircraft and aviation activity can appear mysterious.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ The result is not that every sighting has an immediate answer. Rather, Singapore
 <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather Flying">Weather Flying</a>
 </h4>
 <p class="fr-book-author">By Robert Buck</p>
-
+        
 <p class="fr-book-desc">Relevant to atmospheric conditions that create unusual sky appearances.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+Flying+by+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

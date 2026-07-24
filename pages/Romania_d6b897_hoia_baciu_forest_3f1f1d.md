@@ -374,7 +374,7 @@ The strongest evidence connected to the forest remains the Barnea photographs an
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides a skeptical framework for assessing Hoia-Baciu claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The strongest evidence connected to the forest remains the Barnea photographs an
 <a href="https://www.amazon.com/s?k=UFOs+OVER+ROMANIA+Dan+D+Farcas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs OVER ROMANIA">UFOs OVER ROMANIA</a>
 </h4>
 <p class="fr-book-author">By Dan D Farcas</p>
-
+        
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+OVER+ROMANIA+Dan+D+Farcas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The strongest evidence connected to the forest remains the Barnea photographs an
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Perfect fit for Hoia-Baciu&#x27;s blend of folklore, paranormal claims, and UFO stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The strongest evidence connected to the forest remains the Barnea photographs an
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
 </h4>
 <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-
+        
 <p class="fr-book-desc">Explores a location where folklore and unexplained reports overlap.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

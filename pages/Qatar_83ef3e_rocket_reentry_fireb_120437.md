@@ -377,7 +377,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Discusses investigation methods applicable to fireball reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides context for separating unexplained events from solved cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
 <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
 </h4>
 <p class="fr-book-author">By Peter Jenniskens</p>
-
+        
 <p class="fr-book-desc">Helps explain how bright atmospheric events can be mistaken for UFOs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
 <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
 </h4>
 <p class="fr-book-author">By Avi Loeb</p>
-
+        
 <p class="fr-book-desc">Shows how unusual objects are analysed scientifically.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

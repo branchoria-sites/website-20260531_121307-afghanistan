@@ -380,7 +380,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-
+        
 <p class="fr-book-desc">Explains unusual cloud formations including rare atmospheric phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
 </h4>
 <p class="fr-book-author">By John D. Cox</p>
-
+        
 <p class="fr-book-desc">Provides accessible explanations for unusual sky events often mistaken for mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides context for distinguishing unexplained reports from identifiable events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For researchers looking at Oman’s limited public UFO record, the event serves 
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Addresses how natural phenomena can enter UFO reporting systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

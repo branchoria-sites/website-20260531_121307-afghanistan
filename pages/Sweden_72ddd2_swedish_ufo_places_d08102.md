@@ -409,7 +409,7 @@ This landscape-driven history helps explain why Swedish UFO research remains cen
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-
+        
 <p class="fr-book-desc">Examines reports tied to specific landscapes and regions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ This landscape-driven history helps explain why Swedish UFO research remains cen
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Explores how geography, folklore, and recurring locations shape UFO traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ This landscape-driven history helps explain why Swedish UFO research remains cen
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-
+        
 <p class="fr-book-desc">Fits the folklore and anomalous-geography angle of Swedish UFO sites.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ This landscape-driven history helps explain why Swedish UFO research remains cen
 <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-
+        
 <p class="fr-book-desc">Provides context for Swedish locations and notable European cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

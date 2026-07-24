@@ -410,7 +410,7 @@ The file matters not because it conclusively answers the UFO question, but becau
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Hynek’s Blue Book involvement makes this highly relevant to interpreting official Cold War UFO files.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The file matters not because it conclusively answers the UFO question, but becau
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Supports the official-records angle while staying commercially stronger than obscure Austria-only material.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ The file matters not because it conclusively answers the UFO question, but becau
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
 </h4>
 <p class="fr-book-author">By Brad Steiger</p>
-
+        
 <p class="fr-book-desc">Directly matches the page’s focus on a documented 1954 Project Blue Book Austria case.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ The file matters not because it conclusively answers the UFO question, but becau
 <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
 </h4>
 <p class="fr-book-author">By Philip J. Klass</p>
-
+        
 <p class="fr-book-desc">Fits the page’s balloon-versus-insufficient-data theme and evidence-quality framing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -326,7 +326,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides contrast between unexplained cases and common misidentifications.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -343,7 +343,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
 <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
 </h4>
 <p class="fr-book-author">By Peter Jenniskens</p>
-
+        
 <p class="fr-book-desc">Directly relevant to bright sky events mistaken for UFOs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
 </h4>
 <p class="fr-book-author">By Mary Roach</p>
-
+        
 <p class="fr-book-desc">Introduces readers to spaceflight realities behind spectacular sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

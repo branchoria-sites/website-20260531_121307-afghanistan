@@ -385,7 +385,7 @@ Rather than asking readers to accept extraordinary conclusions, UAP Afrique asks
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Directly links folklore traditions with modern UFO narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Rather than asking readers to accept extraordinary conclusions, UAP Afrique asks
 <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Examines social and cultural dynamics rather than physical proof.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Rather than asking readers to accept extraordinary conclusions, UAP Afrique asks
 <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
 </h4>
 <p class="fr-book-author">By Whitley Strieber</p>
-
+        
 <p class="fr-book-desc">Shows how personal experience narratives shape UFO culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Rather than asking readers to accept extraordinary conclusions, UAP Afrique asks
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By D.W. Pasulka</p>
-
+        
 <p class="fr-book-desc">Strong fit for discussions of cultural meaning, testimony and identity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

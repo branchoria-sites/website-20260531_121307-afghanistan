@@ -401,7 +401,7 @@ In that sense, the Richat Structure serves as one of the clearest examples withi
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides a contrast between evidence-based UFO investigation and speculative interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ In that sense, the Richat Structure serves as one of the clearest examples withi
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ In that sense, the Richat Structure serves as one of the clearest examples withi
 <a href="https://www.amazon.com/s?k=Magicians+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magicians of the gods">Magicians of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Comets, Lost continents, Collisions with Earth, Ancient Civilization, Civilization, ancient.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magicians+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ In that sense, the Richat Structure serves as one of the clearest examples withi
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">First published 1972.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

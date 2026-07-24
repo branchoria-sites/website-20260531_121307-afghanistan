@@ -311,7 +311,7 @@ In Lesotho, as in neighbouring regions, UFO tales thus reflect a mix of fascinat
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-
+        
 <p class="fr-book-desc">Examines recurring aerial mystery stories across societies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -328,7 +328,7 @@ In Lesotho, as in neighbouring regions, UFO tales thus reflect a mix of fascinat
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Offers examples of cases supported by stronger documentation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -345,7 +345,7 @@ In Lesotho, as in neighbouring regions, UFO tales thus reflect a mix of fascinat
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Directly explores how folklore and cultural motifs shape UFO narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ In Lesotho, as in neighbouring regions, UFO tales thus reflect a mix of fascinat
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Provides tools for separating folklore from evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

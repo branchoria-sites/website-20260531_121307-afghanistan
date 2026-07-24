@@ -316,7 +316,7 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Explains how military organisations assess unidentified aerial reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -333,7 +333,7 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Peter A. Sturrock</p>
-
+        
 <p class="fr-book-desc">Addresses radar cases, observational data and competing explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Directly aligns with air-defence, pilot and radar-focused UFO discussions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ More broadly, Iran’s UFO/UAP reports illustrate that in any heavily monitored 
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-
+        
 <p class="fr-book-desc">Provides context on advanced aerospace technology and military secrecy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

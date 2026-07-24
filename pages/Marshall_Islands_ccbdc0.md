@@ -1304,7 +1304,7 @@ The 1977 Kwajalein sighting remains the most straightforward local unresolved re
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
 </h4>
 <p class="fr-book-author">By Greg Eghigian</p>
-
+        
 <p class="fr-book-desc">Useful for placing Marshall Islands cases within global UFO reporting patterns.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1321,7 +1321,7 @@ The 1977 Kwajalein sighting remains the most straightforward local unresolved re
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides context for evaluating sparse and military-linked UFO reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1338,7 +1338,7 @@ The 1977 Kwajalein sighting remains the most straightforward local unresolved re
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
 </h4>
 <p class="fr-book-author">By Eric Schlosser</p>
-
+        
 <p class="fr-book-desc">Provides context for military and nuclear infrastructure often linked to UFO speculation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

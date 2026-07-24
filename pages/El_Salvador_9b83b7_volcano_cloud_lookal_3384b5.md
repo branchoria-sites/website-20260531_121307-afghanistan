@@ -445,7 +445,7 @@ The strongest skeptical interpretations in El Salvador therefore focus less on r
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
 </h4>
 <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-
+        
 <p class="fr-book-desc">Explains unusual cloud formations including UFO-like shapes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ The strongest skeptical interpretations in El Salvador therefore focus less on r
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
 </h4>
 <p class="fr-book-author">By John D. Cox</p>
-
+        
 <p class="fr-book-desc">Helps readers understand atmospheric effects behind sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ The strongest skeptical interpretations in El Salvador therefore focus less on r
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Useful for distinguishing genuine unknowns from misidentifications.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ The strongest skeptical interpretations in El Salvador therefore focus less on r
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-
+        
 <p class="fr-book-desc">Addresses why people interpret natural phenomena as extraordinary.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

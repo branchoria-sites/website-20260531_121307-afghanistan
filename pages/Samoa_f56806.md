@@ -1324,7 +1324,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-
+        
 <p class="fr-book-desc">Offers a broad framework for understanding sparse national UFO records.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Shows what stronger evidence looks like compared with sparse records.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
 </h4>
 <p class="fr-book-author">By Greg Eghigian</p>
-
+        
 <p class="fr-book-desc">Places Samoa within worldwide UFO reporting culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1375,7 +1375,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Useful for evaluating reports and witness testimony.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

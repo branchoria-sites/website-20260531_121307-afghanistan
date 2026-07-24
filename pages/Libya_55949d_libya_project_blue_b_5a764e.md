@@ -369,7 +369,7 @@ In that sense, the archive tells two stories at once. One concerns unidentified 
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
 </h4>
 <p class="fr-book-author">By Brad Steiger</p>
-
+        
 <p class="fr-book-desc">Centred on Project Blue Book&#x27;s case files and investigations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ In that sense, the archive tells two stories at once. One concerns unidentified 
 <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Most closely matches the page&#x27;s focus on Blue Book and preserved records.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ In that sense, the archive tells two stories at once. One concerns unidentified 
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Written by Blue Book&#x27;s most famous scientific consultant.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ In that sense, the archive tells two stories at once. One concerns unidentified 
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Explains how Air Force UFO reporting systems operated.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

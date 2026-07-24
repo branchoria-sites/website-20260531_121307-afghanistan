@@ -421,7 +421,7 @@ This makes Eritrea less useful for proving or disproving UFO phenomena directly,
 <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Shows how public narratives emerge when evidence is scarce.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ This makes Eritrea less useful for proving or disproving UFO phenomena directly,
 <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
 </h4>
 <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
-
+        
 <p class="fr-book-desc">Provides context for understanding information control and reporting limits.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ This makes Eritrea less useful for proving or disproving UFO phenomena directly,
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
 </h4>
 <p class="fr-book-author">By Colin Dickey</p>
-
+        
 <p class="fr-book-desc">Examines how communities interpret mysterious claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ This makes Eritrea less useful for proving or disproving UFO phenomena directly,
 <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
 </h4>
 <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
-
+        
 <p class="fr-book-desc">Explains how documentation and verification depend on media systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

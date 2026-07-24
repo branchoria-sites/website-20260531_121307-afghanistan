@@ -312,7 +312,7 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Discusses classification and assessment of witness testimony.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -329,7 +329,7 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides context for how witness reports are evaluated.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Relevant to Icelandic folklore influences on local sighting stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Public perception in Iceland appears to treat UFO sightings as intriguing but ul
 <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
 </h4>
 <p class="fr-book-author">By Donald Keyhoe</p>
-
+        
 <p class="fr-book-desc">Illustrates how public UFO narratives spread through media and witness reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

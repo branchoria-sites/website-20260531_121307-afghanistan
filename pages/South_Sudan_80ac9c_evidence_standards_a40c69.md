@@ -457,7 +457,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Highlights what stronger UFO evidence looks like.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Shows how reports are checked and explained.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -491,7 +491,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Directly addresses evidence quality and testing claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -508,7 +508,7 @@ The key lesson for evaluating South Sudan sightings is therefore straightforward
 <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
 </h4>
 <p class="fr-book-author">By Philip C. Plait</p>
-
+        
 <p class="fr-book-desc">Explains common sky misidentifications and observational errors.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

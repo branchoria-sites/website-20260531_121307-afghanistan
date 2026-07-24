@@ -10,11 +10,11 @@ description: Browse the full structured site index.
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="MC" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="africa" aria-label="Focus map on Africa"><span>Africa</span><small>54</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="americas" aria-label="Focus map on Americas"><span>Americas</span><small>35</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="asia" aria-label="Focus map on Asia"><span>Asia</span><small>47</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="europe" aria-label="Focus map on Europe"><span>Europe</span><small>43</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="oceania" aria-label="Focus map on Oceania"><span>Oceania</span><small>14</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="africa" aria-pressed="false" aria-label="Focus map on Africa"><span>Africa</span><small>54</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="americas" aria-pressed="false" aria-label="Focus map on Americas"><span>Americas</span><small>35</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="asia" aria-pressed="false" aria-label="Focus map on Asia"><span>Asia</span><small>47</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="europe" aria-pressed="false" aria-label="Focus map on Europe"><span>Europe</span><small>43</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="oceania" aria-pressed="false" aria-label="Focus map on Oceania"><span>Oceania</span><small>14</small></button>
 </nav>
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>

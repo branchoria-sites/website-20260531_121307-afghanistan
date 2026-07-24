@@ -404,7 +404,7 @@ For researchers examining Maldivian aerial sightings, the 2026 Laamu event is th
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Helps readers compare unexplained sightings with documented aerospace cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For researchers examining Maldivian aerial sightings, the 2026 Laamu event is th
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Focuses on evaluating reports before reaching extraordinary conclusions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For researchers examining Maldivian aerial sightings, the 2026 Laamu event is th
 <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Dr. Michael P. Masters</p>
-
+        
 <p class="fr-book-desc">Explores alternative explanations for unusual aerial observations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For researchers examining Maldivian aerial sightings, the 2026 Laamu event is th
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Provides historical context for how unusual aerial events become folklore and mystery narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -373,7 +373,7 @@ Several lessons stand out:
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Useful for separating evidence from cultural interpretation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Several lessons stand out:
 <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
 </h4>
 <p class="fr-book-author">By Mark Pilkington</p>
-
+        
 <p class="fr-book-desc">Directly explores hoaxes, belief systems, and UFO mythology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Several lessons stand out:
 <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Examines manipulation, belief formation, and contactee movements.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Several lessons stand out:
 <a href="https://www.amazon.com/s?k=They+Knew+Too+Much+about+Flying+Saucers+by+Gray+Barker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Knew Too Much about Flying Saucers">They Knew Too Much about Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Gray Barker</p>
-
+        
 <p class="fr-book-desc">Shows how UFO legends and narratives become embedded in popular culture.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=They+Knew+Too+Much+about+Flying+Saucers+by+Gray+Barker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

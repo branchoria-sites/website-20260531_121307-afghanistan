@@ -1298,7 +1298,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Edward J. Ruppelt</p>
-
+        
 <p class="fr-book-desc">Provides context for Cold War-era Air Force sightings and analysis.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1315,7 +1315,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
 <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Libya&#x27;s best-known reports are linked to military reporting and Blue Book records.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides analytical tools for assessing Libya&#x27;s sparse record.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
 </h4>
 <p class="fr-book-author">By Brad Steiger</p>
-
+        
 <p class="fr-book-desc">Directly connects to the archival framework behind Libya-linked cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

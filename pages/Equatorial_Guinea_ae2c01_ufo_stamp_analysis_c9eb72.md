@@ -395,7 +395,7 @@ That combination gives the issue a disproportionate cultural footprint compared 
 <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Places UFO imagery within broader popular culture history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ That combination gives the issue a disproportionate cultural footprint compared 
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
 </h4>
 <p class="fr-book-author">By Colin Dickey</p>
-
+        
 <p class="fr-book-desc">Explores the cultural fascination behind UFO-related artifacts and imagery.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ That combination gives the issue a disproportionate cultural footprint compared 
 <a href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stamp Collecting for Dummies">Stamp Collecting for Dummies</a>
 </h4>
 <p class="fr-book-author">By Richard L. Sine</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Stamp collecting, Postage stamps, collectors and collecting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ That combination gives the issue a disproportionate cultural footprint compared 
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
 </h4>
 <p class="fr-book-author">By Erich von Däniken</p>
-
+        
 <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

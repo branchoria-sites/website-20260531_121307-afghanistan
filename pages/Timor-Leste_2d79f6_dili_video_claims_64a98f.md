@@ -420,7 +420,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides frameworks for classifying and evaluating sightings beyond appearances alone.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-
+        
 <p class="fr-book-desc">Discusses evidence, reporting quality, and modern UAP controversies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Emphasises evidence standards and verification issues similar to assessing online videos.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -471,7 +471,7 @@ This is why Dili's social-video archive remains largely inconclusive. The city p
 <a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Final Report of the Scientific Study of Unidentified Flying Objects">Final Report of the Scientific Study of Unidentified Flying O...</a>
 </h4>
 <p class="fr-book-author">By University of Colorado (Boulder campus), Edward Uhler Condon</p>
-
+        
 <p class="fr-book-desc">Useful for understanding evidential thresholds and investigation standards.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Final+Report+of+the+Scientific+Study+of+Unidentified+Flying+Objects+by+University+of+Colorado+%28Boulder+campus%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

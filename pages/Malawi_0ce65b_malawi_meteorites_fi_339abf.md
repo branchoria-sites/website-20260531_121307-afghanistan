@@ -366,7 +366,7 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-
+        
 <p class="fr-book-desc">Explains meteorite falls, finds, and identification methods.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
 <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-
+        
 <p class="fr-book-desc">Provides comparison between UFO claims and natural astronomical phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
 <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their parent planets">Meteorites and their parent planets</a>
 </h4>
 <p class="fr-book-author">By Harry Y. McSween</p>
-
+        
 <p class="fr-book-desc">First published 1987. Subjects: Meteorites, Météorites, Meteorit.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For researchers examining aerial anomaly reports in Malawi, the confirmed meteor
 <a href="https://www.amazon.com/s?k=Fireball+Robert+Matzen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fireball">Fireball</a>
 </h4>
 <p class="fr-book-author">By Robert Matzen</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Motion picture actors and actresses, united states, Motion pictures, biography, Motion picture actors and...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fireball+Robert+Matzen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

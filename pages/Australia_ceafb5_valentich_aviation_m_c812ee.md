@@ -310,7 +310,7 @@ Valentich’s disappearance has also made a lasting cultural impact, inspiring m
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides context for evaluating famous unresolved cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -327,7 +327,7 @@ Valentich’s disappearance has also made a lasting cultural impact, inspiring m
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Includes pilot and aviation-related UFO reporting themes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ Valentich’s disappearance has also made a lasting cultural impact, inspiring m
 <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
 </h4>
 <p class="fr-book-author">By Ernest K Gann</p>
-
+        
 <p class="fr-book-desc">Explores risk, uncertainty, and accident interpretation in aviation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Valentich’s disappearance has also made a lasting cultural impact, inspiring m
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Useful for assessing competing explanations in mystery cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

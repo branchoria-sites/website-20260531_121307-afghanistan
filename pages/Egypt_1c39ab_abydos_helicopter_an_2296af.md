@@ -437,7 +437,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
 <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Terrible Mistake">A Terrible Mistake</a>
 </h4>
 <p class="fr-book-author">By Jason Colavito</p>
-
+        
 <p class="fr-book-desc">Explains how archaeological anomalies become UFO narratives and addresses claims like Abydos.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
 <a href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete pyramids">The complete pyramids</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Provides archaeological context that counters speculative interpretations of Egyptian monuments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -471,7 +471,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
 <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clancy 2 boxed set">Clancy 2 boxed set</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Directly connects ancient Egypt with extraterrestrial interpretations similar to the Abydos claim.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Provides the broader ancient-alien framework that popularized interpretations like the Abydos helicopter.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

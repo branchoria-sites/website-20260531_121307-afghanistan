@@ -408,7 +408,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Contrasts explainable aerospace events with stronger unexplained cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-
+        
 <p class="fr-book-desc">Helps readers understand advanced flight and testing environments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ For the Marshall Islands, that context is especially important. Some of the regi
 <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
 </h4>
 <p class="fr-book-author">By John D. Clark</p>
-
+        
 <p class="fr-book-desc">First published 1972. Subjects: Liquid propellants, solid propellants, rocket fuel, Rocketry, chemistry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ignition%21+John+D.+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

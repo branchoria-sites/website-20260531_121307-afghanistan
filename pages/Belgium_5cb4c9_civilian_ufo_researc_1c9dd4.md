@@ -396,7 +396,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Focuses on investigation methods, witness reports, and case classification.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Peter A. Sturrock</p>
-
+        
 <p class="fr-book-desc">Examines how UFO reports are collected, assessed, and debated.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Covers civilian and official investigations, matching SOBEPS-authority collaboration themes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
 <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
 </h4>
 <p class="fr-book-author">By Ralph Blumenthal</p>
-
+        
 <p class="fr-book-desc">Explores the culture and investigation of extraordinary aerial claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

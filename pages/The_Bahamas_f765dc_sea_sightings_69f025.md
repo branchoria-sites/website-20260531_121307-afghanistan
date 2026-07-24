@@ -421,7 +421,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Provides broader context for evaluating aerial reports over water.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Explores witness interpretation of unusual events and environments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
 <a href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Draw Characters for the Artistically Challenged">How to Draw Characters for the Artistically Challenged</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Highlights how unusual marine environments can produce extraordinary perceptions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+to+Draw+Characters+for+the+Artistically+Challenged&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ For that reason, Nassau remains one of the Bahamas’ most active UFO-reporting 
 <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle / Charles Berlitz.">The Bermuda Triangle / Charles Berlitz.</a>
 </h4>
 <p class="fr-book-author">By Charles Berlitz</p>
-
+        
 <p class="fr-book-desc">First published 1974.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+%2F+Charles+Berlitz.+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

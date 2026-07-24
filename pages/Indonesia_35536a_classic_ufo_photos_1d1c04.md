@@ -378,7 +378,7 @@ Their continuing importance therefore lies in two different domains. As historic
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Provides investigative frameworks useful when evaluating famous UFO photographs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Their continuing importance therefore lies in two different domains. As historic
 <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
 </h4>
 <p class="fr-book-author">By Richard H. Hall</p>
-
+        
 <p class="fr-book-desc">Focuses on documented evidence categories including photographs and physical traces.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Their continuing importance therefore lies in two different domains. As historic
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Peter A. Sturrock</p>
-
+        
 <p class="fr-book-desc">Addresses how evidence should be assessed in unexplained aerial reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ Their continuing importance therefore lies in two different domains. As historic
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Includes discussion of evidence evaluation and photographic cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

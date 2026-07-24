@@ -352,7 +352,7 @@ Without those details, many reports remain compatible with ordinary explanations
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-
+        
 <p class="fr-book-desc">Discusses identification, misidentification, and classification of aerial sightings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Without those details, many reports remain compatible with ordinary explanations
 <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
 </h4>
 <p class="fr-book-author">By Dr. Michael P. Masters</p>
-
+        
 <p class="fr-book-desc">Encourages readers to consider alternative interpretations of unusual observations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Without those details, many reports remain compatible with ordinary explanations
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Emphasises evidence standards and comparison with conventional explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Without those details, many reports remain compatible with ordinary explanations
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-
+        
 <p class="fr-book-desc">Examines how cultural and perceptual factors influence strange-sky reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

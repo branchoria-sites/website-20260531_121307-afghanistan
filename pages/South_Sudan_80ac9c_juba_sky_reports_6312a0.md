@@ -488,7 +488,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-
+        
 <p class="fr-book-desc">Covers aviation-linked observations and witness evaluation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -505,7 +505,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-
+        
 <p class="fr-book-desc">Examines how reports become cases and how explanations emerge.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -522,7 +522,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
 <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
 </h4>
 <p class="fr-book-author">By Philip C. Plait</p>
-
+        
 <p class="fr-book-desc">Useful for understanding satellites, planets and visual misidentifications.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -539,7 +539,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
 </h4>
 <p class="fr-book-author">By Colin Dickey</p>
-
+        
 <p class="fr-book-desc">Explains why urban centres generate recurring mystery stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
